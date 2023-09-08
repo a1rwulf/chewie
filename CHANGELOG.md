@@ -1,3 +1,7 @@
+## 1.7.1
+* Upgrade `video_player` to version `2.8.1`.
+* Fix mistake in pubspec file.
+
 ## 1.7.0
 * 🛠️ [#754](https://github.com/fluttercommunity/chewie/pull/754): Upgraded `wakelock_plus` to version `1.1.0`. Thanks [diegotori](https://github.com/diegotori).
 * **BREAKING CHANGE**: Library now requires at least Dart and Flutter versions `2.18` and `3.3.0` respectively.
