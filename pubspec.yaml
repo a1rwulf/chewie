@@ -1,6 +1,6 @@
 name: chewie
 description: A video player for Flutter with Cupertino and Material play controls
-version: 1.7.1
+version: 1.8.0
 homepage: https://github.com/fluttercommunity/chewie
 publish_to: https://dart.cloudsmith.io/seadev-studios-gmbh/seadev/
 
@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   provider: ^6.0.5
   video_player:
-    version: ^2.8.0
+    version: ^2.9.0
     hosted:
       name: video_player
       url: https://dart.cloudsmith.io/seadev-studios-gmbh/seadev/

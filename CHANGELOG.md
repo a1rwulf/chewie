@@ -1,3 +1,7 @@
+## 1.8.0
+* Upgrade `video_player` to version `2.9.0`.
+* Add support for custom download quality.
+
 ## 1.7.1
 * Upgrade `video_player` to version `2.8.1`.
 * Fix mistake in pubspec file.
